@@ -118,4 +118,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 ## Author
 
 Neha Kohli
-3rd-year student passionate about data structures, algorithms, and Java.
+
