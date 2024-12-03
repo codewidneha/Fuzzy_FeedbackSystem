@@ -117,5 +117,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Author
 
-[Your Name](https://github.com/your-username)  
+Neha Kohli
 3rd-year student passionate about data structures, algorithms, and Java.
